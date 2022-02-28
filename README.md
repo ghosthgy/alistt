@@ -1,3 +1,7 @@
+# Alist on heroku
+
+点击这里开始👉 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 <div align="center">
   <a href="https://alist.nn.ci"><img height="100px" alt="logo" src="https://cdn.jsdelivr.net/gh/alist-org/assets@main/logo.svg"/></a>
   <p><em>🗂️Another file list program that supports multiple storage, powered by Gin and React.</em></p>
